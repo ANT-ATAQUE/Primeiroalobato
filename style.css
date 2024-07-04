@@ -6,3 +6,9 @@ h1{
 body{
     background: linear-gradient( to right #ca1313,#6500e9,#00eeff,);
 }
+h1{ 
+    font-size: 70px
+    text-aling center;
+    color: #fff
+}
+  
